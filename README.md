@@ -1,5 +1,31 @@
 Benchmarking Long-Read Aligners and SV Callers for Structural Variation Detection in Oxford Nanopore Sequencing Data: A Comprehensive Evaluation
 ​
+    A) Alignment tools under evaluation
+    • Minimap2  https://github.com/lh3/minimap2 (v2.26)
+    • LRA   https://github.com/ChaissonLab/LRA (v1.3.7.2)
+    • Pbmm2  https://github.com/PacificBiosciences/pbmm2   (v1.7.0)
+    • Ngmlr  https://github.com/philres/ngmlr   (v.0.2.7)
+
+    B) SV callers under evaluation
+    • Sniffles2  https://github.com/fritzsedlazeck/Sniffles (v2.0.7)
+    • CuteSV https://github.com/tjiangHIT/CuteSV  (v1.0.10)
+    • SVIM https://github.com/eldariont/svim (v.2.0.0)
+    • Pbsv https://github.com/PacificBiosciences/pbsv   (v2.3.0)
+    • SVDSS https://github.com/Parsoa/SVDSS  (v1.0.5)
+    • NpINV https://github.com/haojingshao/npInv  (v.1.28) - For accurate inversions detection
+    
+    C) Tools that were used to manipulate the BAM files 
+    • Samtools  https://github.com/samtools/samtools  (v1.17) 
+    • Mosdepth https://github.com/brentp/mosdepth  (v.0.3.3)
+
+    D) Tools used for Dataset simulation
+    • VISOR  https://github.com/davidebolo1993/VISOR (v.1.1.2) - For simulation of  long reads a dataset and generation of the benchmark callset
+    
+    E) Tools used for VCF filtration and comparison
+    • Bcftools  https://github.com/samtools/bcftools (v.1.17)
+    • Truvari  https://github.com/ACEnglish/truvari  (v4.0.0)
+
+
 ## For GM24385 Dataset
 ​
 ```bash
