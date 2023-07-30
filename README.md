@@ -26,7 +26,6 @@ Benchmarking Long-Read Aligners and SV Callers for Structural Variation Detectio
     • Truvari  https://github.com/ACEnglish/truvari  (v4.0.0)
 
 
->>>>>>> e932f457eaee9c2640713ca6eec39c13e1de4527
 ## For GM24385 Dataset
 ​
 ```bash
