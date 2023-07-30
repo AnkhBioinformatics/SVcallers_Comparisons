@@ -1,13 +1,4 @@
 Benchmarking Long-Read Aligners and SV Callers for Structural Variation Detection in Oxford Nanopore Sequencing Data: A Comprehensive Evaluation
-<<<<<<< HEAD
-​ ## Alignment tools for evaluation 
-=======
-​
-
-
-
-
-
 
   A) Alignment tools under evaluation
     • Minimap2  https://github.com/lh3/minimap2 (v2.26)
